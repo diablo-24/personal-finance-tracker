@@ -5,7 +5,7 @@ A small, privacy-first personal finance tracker built with Next.js and TypeScrip
 
 The idea behind this project is to have a simple offline-first way of tracking personal finances. All data is stored locally in the browser by default, with an optional cloud sync feature for those who want to back up their data or access it across devices.
 
-For the hosted version, visit: [money.tomshaw.dev](https://money.tomshaw.dev)
+For the hosted version, visit: [MyMoney_Clone](https://diablo-24.github.io/personal-finance-tracker)
 
 Auth0 authentication is used for all users, however storing your financial data in the cloud is optional.
 
@@ -144,5 +144,5 @@ This project is licensed under the MIT License.
 
 ---
 
-Built with ❤️ by [Tom Shaw](https://tomshaw.dev)
+Built with ❤️ by [Sai P](https://diablo-24.github.io)
 
